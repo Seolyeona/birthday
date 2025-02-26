@@ -8,16 +8,16 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "plss mau dong",
-        image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
+        text: "eh bikin wish duluu sebelum tiup lilinnya",
+        image: "https://i.pinimg.com/originals/7c/97/83/7c978348686dcfd198fa4d453693321f.gif"
     },
     {
-        text: "pls klik yg kiri",
-        image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
+        text: "yayyy akhirnya legal yaa",
+        image: "https://i.pinimg.com/736x/fd/3d/2e/fd3d2e55daf8ff11ccb5115ed50cf970.jpg"
     },
     {
-        text: "terakhir, kalo \"no\" yauda deh",
-        image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
+        text: "terakhir, semoga nope jadi pacar haechan",
+        image: "https://i.pinimg.com/736x/71/ed/ca/71edca1668c11f5ba9d8d707f044df15.jpg"
     }
 ];
 
@@ -121,7 +121,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "HORE!! i knew you would say vqsghvwegdsbjs";
+    title.innerHTML = "PYY SWEETSEVENTEEN YAAWWW MWAH MWAH";
     document.querySelector('img').src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/good-night-kiss-kiss.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
