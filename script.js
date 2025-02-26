@@ -121,7 +121,9 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "PYY SWEETSEVENTEEN YAAWWW MWAH MWAH";
+    title.innerHTML = "Happy Sweet Seventeen, Nopeeee!!! Akhirnya 17! Semoga di usia baru ini banyak hal baik yang datang, makin bahagia, sukses, dan dikelilingi orang-orang yang tulus. Semoga semua impianmu tercapai, termasuk jadi pacarnya Haechan HAHAHAH. Enjoy your day! with love, Pacar Sunwoo"
+With love,
+Pacar Sunwoo 💛";
     document.querySelector('img').src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/good-night-kiss-kiss.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
